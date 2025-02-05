@@ -1,7 +1,7 @@
 ## Olá, eu sou o <i>Vitor</i>  👋
 <div>
- <img width = 42% src = "https://github-readme-stats.vercel.app/api?username=IM-DeV-Vitor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
- <img width = 50%  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IM-DeV-Vitor&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+ <img width = 43% src = "https://github-readme-stats.vercel.app/api?username=IM-DeV-Vitor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+ <img width = 38.5%  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IM-DeV-Vitor&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 
 </div>
 
