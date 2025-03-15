@@ -31,4 +31,4 @@
 <img align = "center" height = "50" width = "60" alt = "SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div>
 <h2>📚 Sempre aprendendo algo novo!</h2>
-<p><strong>Meu projeto portfólio <a href="https://im-dev-vitor.github.io/Portfolio/">aqui</a></strong></p>
+<p><strong>Meu projeto portfólio <a href="https://im-dev-vitor.github.io/Portfolio/" target="_blank">aqui</a></strong></p>
