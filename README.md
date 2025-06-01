@@ -32,7 +32,7 @@
 <img align = "center" height = "50" width = "60" alt = "SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div>
 <h2>📚 Sempre aprendendo algo novo!</h2>
-<p><strong>Meu projeto portfólio <a href="https://im-dev-vitor.github.io/Portfolio/" target="_blank">aqui</a></strong></p>
+<p><strong>Meu projeto portfólio <a href="https://im-dev-vitor.github.io/Portfolio/" target="_blank" style="text-decoration: none">aqui</a></strong></p>
 
 <h2>Projeto Principal, <strong>SportForU 🏃</strong></h2>
 <h3>Sobre: </h3>
@@ -43,6 +43,6 @@
    <li>Contador de quilometragem funcional</li>
 </ul>
 <p>Acesso da versão Beta: </p>
-<a href="sport-for-u.vercel.app">SportForU</a>
+<a href="sport-for-u.vercel.app" style="text-decoration: none">SportForU</a>
 
 <h3>Logs: </h3>
