@@ -42,8 +42,8 @@
    <li>Edição de nome e email ilimitada</li>
    <li>Contador de quilometragem funcional</li>
 </ul>
-&nbsp;&nbsp;> <h4>Acesso da versão Beta: </h4>
+&nbsp;&nbsp; <h4>> Acesso da versão Beta: </h4>
 
-&nbsp;&nbsp;<a href="sport-for-u.vercel.app" style="text-decoration: none">SportForU</a>
+&nbsp;<a href="sport-for-u.vercel.app" style="text-decoration: none">SportForU</a>
 
-<h3>Logs: </h3>
+&nbsp;&nbsp;<h3>> Logs: </h3>
