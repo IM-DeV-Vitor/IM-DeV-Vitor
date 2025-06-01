@@ -56,5 +56,4 @@ Deploy commit
 
 
 
-Version 1.0.0:
-Added: now the limit of versions displayed on README is 8
+
