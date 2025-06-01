@@ -37,13 +37,11 @@
 <h2>Projeto Principal, <strong>SportForU 🏃</strong></h2>
 <h3>&nbsp;&nbsp;> Sobre: </h3>
 <p>Gerencie suas caminhadas com SportForU</p>
-<ul><h4>&nbsp;&nbsp;> Funcionalidades principais: </h4> 
-   <li>Sistema de cadastro e login funcionais</li>
-   <li>Edição de nome e email ilimitada</li>
-   <li>Contador de quilometragem funcional</li>
+<ul><h4>&nbsp;> Funcionalidades principais: </h4> 
+   &nbsp;&nbsp;<li>Sistema de cadastro e login funcionais</li>
+   &nbsp;&nbsp;<li>Edição de nome e email ilimitada</li>
+   &nbsp;&nbsp;<li>Contador de quilometragem funcional</li>
 </ul>
 &nbsp;&nbsp; <h4>> Acesso da versão Beta: </h4>
-
 &nbsp;<a href="sport-for-u.vercel.app" style="text-decoration: none">SportForU</a>
-
 &nbsp;&nbsp;<h3>> Logs: </h3>
