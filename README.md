@@ -26,6 +26,7 @@
 <img align = "center" height = "50" width = "60" alt = "HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align = "center" height = "50" width = "60" alt = "CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align = "center" height = "50" width = "60" alt = "JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+ 
 <img align = "center" height = "50" width = "60" alt = "Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 <img align = "center" height = "50" width = "60" alt = "Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 <img align = "center" height = "50" width = "60" alt = "SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
@@ -33,5 +34,4 @@
 <h2>📚 Sempre aprendendo algo novo!</h2>
 <p><strong>Meu projeto portfólio <a href="https://im-dev-vitor.github.io/Portfolio/" target="_blank">aqui</a></strong></p>
 
-Version 2025.06.01:
-TT
+<h2>Projeto Principal, <strong>SportForU 🏃</strong></h2>
