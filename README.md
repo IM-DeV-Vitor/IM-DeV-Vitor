@@ -32,3 +32,6 @@
 </div>
 <h2>📚 Sempre aprendendo algo novo!</h2>
 <p><strong>Meu projeto portfólio <a href="https://im-dev-vitor.github.io/Portfolio/" target="_blank">aqui</a></strong></p>
+
+Version 2025.06.01:
+TT
