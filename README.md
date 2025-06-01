@@ -50,3 +50,6 @@ Ela oferece recursos de login seguro, gerenciamento de perfil e um contador de d
 #### 📒 Logs de atualização:
 
 
+
+SportForU version: 1.0.0:
+Deploy commit
