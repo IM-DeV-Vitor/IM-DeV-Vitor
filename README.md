@@ -34,14 +34,19 @@
 <h2>📚 Sempre aprendendo algo novo!</h2>
 <p><strong>Meu projeto portfólio <a href="https://im-dev-vitor.github.io/Portfolio/" target="_blank" style="text-decoration: none">aqui</a></strong></p>
 
-<h2>Projeto Principal, <strong>SportForU 🏃</strong></h2>
-<h3>&nbsp;&nbsp;> Sobre: </h3>
-<p>Gerencie suas caminhadas com SportForU</p>
-<h4>&nbsp;&nbsp;> Funcionalidades principais: </h4> 
-&nbsp;&nbsp;<li>Sistema de cadastro e login funcionais</li>
-&nbsp;&nbsp;<li>Edição de nome e email ilimitada</li>
-&nbsp;&nbsp;<li>Contador de quilometragem funcional</li>
+### 🏃 Projeto Principal: SportForU
 
-&nbsp;&nbsp; <h4>> Acesso da versão Beta: </h4>
-&nbsp;<a href="sport-for-u.vercel.app" style="text-decoration: none">SportForU</a>
-&nbsp;&nbsp;<h4>> Logs: </h4>
+**SportForU** é uma aplicação web focada em auxiliar usuários a monitorar suas caminhadas.  
+Ela oferece recursos de login seguro, gerenciamento de perfil e um contador de distância percorrida em tempo real.
+
+#### ✨ Funcionalidades:
+- Cadastro e login de usuários
+- Edição de nome e e-mail sem restrições
+- Contador de quilometragem em tempo real
+- Interface responsiva
+
+🔗 [Acesse a versão Beta](https://sport-for-u.vercel.app)
+
+#### 📒 Logs de atualização:
+
+
