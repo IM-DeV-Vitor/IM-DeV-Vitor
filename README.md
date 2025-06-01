@@ -35,14 +35,14 @@
 <p><strong>Meu projeto portfólio <a href="https://im-dev-vitor.github.io/Portfolio/" target="_blank" style="text-decoration: none">aqui</a></strong></p>
 
 <h2>Projeto Principal, <strong>SportForU 🏃</strong></h2>
-<h3>> Sobre: </h3><br>
+<h3>&nbsp;&nbsp;> Sobre: </h3><br>
 <p>Gerencie suas caminhadas com SportForU</p>
-<ul><h4>&nbsp;&nbsp;&nbsp;&nbsp;> Funcionalidades principais: </h4> <br>
+<ul><h4>&nbsp;&nbsp;> Funcionalidades principais: </h4> 
    <li>Sistema de cadastro e login funcionais</li>
    <li>Edição de nome e email ilimitada</li>
    <li>Contador de quilometragem funcional</li>
 </ul>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;> <h4>Acesso da versão Beta: <br></h4></p>
-<a href="sport-for-u.vercel.app" style="text-decoration: none">SportForU</a>
+<p>&nbsp;&nbsp;> <h4>Acesso da versão Beta: <br></h4></p>
+&nbsp;&nbsp;<a href="sport-for-u.vercel.app" style="text-decoration: none">SportForU</a>
 
 <h3>Logs: </h3>
