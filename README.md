@@ -56,5 +56,9 @@ Deploy commit
 
 
 
-SportForU version 1.0.0:
 Added: now the limit of versions displayed on README is 8
+
+
+
+SportForU version 1.0.1:
+Fixed: Bug in version saving
