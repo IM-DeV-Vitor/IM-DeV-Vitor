@@ -54,11 +54,5 @@ Ela oferece recursos de login seguro, gerenciamento de perfil e um contador de d
 SportForU version: 1.0.0:
 Deploy commit
 
-
-
-Added: now the limit of versions displayed on README is 8
-
-
-
 SportForU version 1.0.1:
 Fixed: Bug in version saving
