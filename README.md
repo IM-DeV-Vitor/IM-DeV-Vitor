@@ -54,5 +54,9 @@ Ela oferece recursos de login seguro, gerenciamento de perfil e um contador de d
 SportForU version: 1.0.0:
 Deploy commit
 
-SportForU version 1.0.1:
 Fixed: Bug in version saving
+
+
+
+SportForU version 1.0.2:
+Added: Internal automatic tests
