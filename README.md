@@ -58,5 +58,9 @@ Fixed: Bug in version saving
 
 
 
-SportForU version 1.0.2:
 Added: Internal automatic tests
+
+
+
+SportForU version 1.0.3:
+Added More accurate mileage counter & Status screen
