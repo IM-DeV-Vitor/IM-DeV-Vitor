@@ -62,5 +62,9 @@ Added: Internal automatic tests
 
 
 
-SportForU version 1.0.3:
 Added More accurate mileage counter & Status screen
+
+
+
+SportForU version 1.0.4:
+Added: Login with Google
