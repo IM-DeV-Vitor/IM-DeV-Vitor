@@ -70,5 +70,9 @@ Added: Login with Google
 
 
 
-SportForU version 1.0.5:
 Fixed: Google button taller than expected
+
+
+
+SportForU version 1.0.6:
+Fixed: vertical scrol in button
