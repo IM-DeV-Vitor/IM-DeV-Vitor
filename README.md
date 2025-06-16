@@ -74,5 +74,9 @@ Fixed: Google button taller than expected
 
 
 
-SportForU version 1.0.6:
 Fixed: vertical scrol in button
+
+
+
+SportForU version 1.0.7:
+Added: Button configs edited
