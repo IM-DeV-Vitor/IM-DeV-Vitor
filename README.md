@@ -78,5 +78,9 @@ Fixed: vertical scrol in button
 
 
 
-SportForU version 1.0.7:
 Added: Button configs edited
+
+
+
+SportForU version 1.0.8:
+Edited: Now auto_select in button is selected as false
