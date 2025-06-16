@@ -66,5 +66,9 @@ Added More accurate mileage counter & Status screen
 
 
 
-SportForU version 1.0.4:
 Added: Login with Google
+
+
+
+SportForU version 1.0.5:
+Fixed: Google button taller than expected
