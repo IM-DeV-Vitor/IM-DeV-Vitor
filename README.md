@@ -82,5 +82,9 @@ Added: Button configs edited
 
 
 
-SportForU version 1.0.8:
 Edited: Now auto_select in button is selected as false
+
+
+
+SportForU version 1.0.9:
+Added: Weekly, Monthly and All walked count
