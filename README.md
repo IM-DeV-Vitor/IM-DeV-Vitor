@@ -86,5 +86,9 @@ Edited: Now auto_select in button is selected as false
 
 
 
-SportForU version 1.0.9:
 Added: Weekly, Monthly and All walked count
+
+
+
+SportForU version 1.1.0:
+New API Key
