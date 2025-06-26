@@ -94,7 +94,6 @@ New API Key
 
 
 
-SportForU version 1.1.1:
 Fixed: Update bug
 New API Key
 Added: Weekly, Monthly and All walked count
@@ -141,3 +140,54 @@ New
 Finished day
 First commit
 Initial commit
+
+
+
+SportForU version 1.1.2:
+• Fixed: New bug after solve
+• Fixed: Update bug
+• New API Key
+• Added: Weekly, Monthly and All walked count
+• Edited: Now auto_select in button is selected as false
+• Added: Button configs edited
+• Fixed: vertical scrol in button
+• Fixed: Google button taller than expected
+• Added: Login with Google
+• Added More accurate mileage counter & Status screen
+• Added: Internal automatic tests
+• Fixed: Bug in version saving
+• Added: now the limit of versions displayed on README is 8
+• Added: now the limit of versions displayed on README is 8
+• Added: now the limit of versions displayed on README is 8
+• Deploy commit
+• TT
+• a
+• C:/Program Files/Git/
+• Test: Commit trying
+• Other test
+• Commit test
+• test
+• test
+• Test commit
+• Added: Explication
+• Added: bugs fixee
+• Added: Save distance in database
+• Error Solved
+• I think it finished now
+• Day started
+• Bug Fix
+• Day finished finally
+• now done
+• Day finished
+• Day finished
+• Now is all done xd
+• Now today done
+• Today done
+• I think it done...
+• Now done
+• Responsive
+• All done
+• New
+• Finished day
+• First commit
+• Initial commit
