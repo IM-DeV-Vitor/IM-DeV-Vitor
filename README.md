@@ -49,4 +49,4 @@ Ela oferece recursos de login seguro, gerenciamento de perfil e um contador de d
 
 #### 📒 Logs de atualização:
 
-( Nada por enquanto )
+Confira o histórico de atualizações do projeto <a href="https://sport-for-u-updates.vercel.app">aqui.</a>
